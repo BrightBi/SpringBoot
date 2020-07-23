@@ -1,0 +1,1 @@
+src/main/resources/ 目录下创建static，在该位置放置一个图片文件。启动程序后，尝试访问http://localhost:8080/C08.jpg

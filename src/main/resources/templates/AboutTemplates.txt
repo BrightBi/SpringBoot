@@ -1,0 +1,7 @@
+Spring Boot建议使用 Thymeleaf FreeMarker Velocity Groovy Mustache 模板引擎，避免使用JSP，
+若一定要使用JSP将无法实现Spring Boot的多种特性，具体可见后文：支持JSP的配置
+
+当你使用上述模板引擎中的任何一个，它们默认的模板配置路径为：src/main/resources/templates。
+当然也可以修改这个路径，具体如何修改，可在后续各模板引擎的配置属性中查询并修改。
+
+Thymeleaf 是一个 XML/XHTML/HTML5 模板引擎，可用于 Web 与非 Web 环境中的应用开发
